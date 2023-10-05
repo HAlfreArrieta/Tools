@@ -101,7 +101,6 @@ MsgBox "Bienvenid@ a la Retro Roulette :D" & vbNewLine & _
 " " & vbNewLine & _
 "                        \_(o_o)_/" & vbNewLine & _
 " " & vbNewLine & _
-"Banco Galicia, Commercial Cards."
 WScript.Echo "Encargados de la proxima Retro:"
 WScript.Echo QueEmpieceLaBusqueda()
 WScript.Echo QueEmpieceLaBusqueda()
@@ -134,7 +133,6 @@ almaEnPena1 = ""
 almaEnPena2 = ""
 
 ' Desarrollado por H. Alfredo Arrieta https://www.linkedin.com/in/alfrearrieta/
-' Squad Commercial Cards
 ' Si resolves un bug, te doy oro en un Argentum :D
 ' Si lo mejoras, te doy un bless en un Mu >.<
-' Si te cai bien, se aprecia y desea un muy buen dia! n.n
+' Si te hice reir, me alegro y deseo un muy buen dia! n.n
