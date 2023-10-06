@@ -1,0 +1,25 @@
+¡Bienvenid@ a la Retro Rulette! 🎉
+
+Retro Rulette es una herramienta divertida(? para ayudarte a seleccionar a los integrantes de tu squad de manera aleatoria y justa para tus reuniones de retroalimentación. Acá tienes algunos consejos y aclaraciones para aprovechar al máximo esta herramienta:
+
+**Paso 1: Carga los nombres**
+Antes de comenzar, asegúrate de cargar los nombres de los miembros de tu squad en el archivo "Participantes.txt" en la carpeta Archivos. Coloca un nombre por línea, sin espacios adicionales.
+
+**Paso 2: Ejecuta Retro Rulette**
+Simplemente haz clic en el archivo "Retro Rulette.vbs" para iniciar el proceso. La herramienta seleccionará aleatoriamente a los integrantes que van a quedar a cargo de la próxima retroalimentación.
+
+**Paso 3: Ciclos de Retro Rulette**
+- Si el número de integrantes es par, Retro Rulette selecciona a todos los participantes designados en "Participantes.txt". Luego, el archivo "Excluidos.txt" se reinicia automáticamente para comenzar un nuevo ciclo de la ruleta.
+  
+- Si el número de integrantes es impar, Retro Rulette selecciona a todos los participantes posibles de forma par en "Participantes.txt" y la persona que quede sola se designará en "excluidoSolitario.txt". Esta persona tiene un 100% de probabilidad de ser seleccionada en la primer ronda del próximo ciclo.
+
+**Paso 4: Mantenimiento fácil**
+Retro Rulette se encarga del mantenimiento de archivos de forma autmatica, por lo que no necesitas editar ni borrar ningún archivo manualmente una vez hecho el setup inicial, asignando los miembros de tu squad a "Participantes.txt" en la carpeta Archivos. Retro Rulette se asegurará de que todo esté en orden una vez completes ese paso.
+
+**Bonus track: Sugerencias adicionales**
+- Acordate de actualizar "Participantes.txt" si tu squad tiene nuevos integrantes.
+- Saca una ScreenShot del prompt final y dejalo en el chat de la reu, asi queda mas visual para todo el equipo.
+
+¡Suerte usando Retro Rulette y disfruta de tus reuniones de retroalimentación xD! Si tenes alguna sugerencia o encontras algún error, no dudes en contactarme, H. Alfredo Arrieta, LinkedIn: https://www.linkedin.com/in/alfrearrieta/
+
+¡Que tengas un gran día! 😄
